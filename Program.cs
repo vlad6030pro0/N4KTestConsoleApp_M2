@@ -7,6 +7,7 @@ namespace N4KTestConsoleApp_M2
         static void Main(string[] args)
         {
             Console.WriteLine("Привет Владик!");
+            Console.WriteLine("Bye Boris!");
         }
     }
 }
